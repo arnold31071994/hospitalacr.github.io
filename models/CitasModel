@@ -1,0 +1,13 @@
+<?php 
+
+require_once 'MainModel.php';
+
+
+class CitasModel extends MainModel
+{
+	
+	function __construct(argument)
+	{
+		# code...
+	}
+}
